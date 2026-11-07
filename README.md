@@ -12,14 +12,18 @@ Installation:
 
   Windows:
     
-    Install Visual Studio Code: https://code.visualstudio.com/
-    Open python file in Visual Studio Code.
-    Go to extensions, and search for python and plotly.
-    Install both of those extensions and restart Visual Studio Code.
-    In the top right of the editor there is a run button.  Click that to execute the file
+    You'll need to download one of the latest versions of python.  Some parts of this will require opening the Windows
+    Command Prompt to install packages.
 
+    Go to the Windows Store, and download a version of python that is greater than 3.10.
+    Open Windows Command Prompt and run the following command: py -m pip install plotly
+    Go to your Windows search bar and search for the python application.  Run it to get a default window open.
+    From there, you can select File >> Open, and locate the sankey.py file.
+    Now you should be good to select Run >> Run Module, or hit the F5 key.  Make sure sankey.py and DataSet.txt are in the same directory, they are by default.
 
+  The graph will appear in your browser window, and it has slight interactability.  You'll be able to highlight the connections between nodes, seeing which books realte to which topoi.
   Do not edit the Dataset.txt file.  You do not need to edit it.
+  Get a fucking linux computer at this point.  Ubuntu is so easy to use.
 
   Purpose:
 
