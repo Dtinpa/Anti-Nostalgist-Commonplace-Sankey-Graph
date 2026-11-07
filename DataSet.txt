@@ -1,0 +1,130 @@
+topoi	book	chapter	volume	
+Neo-liberalism	From Sovereign Individual to Targeted Individual	1	1	
+Platforms	From Sovereign Individual to Targeted Individual	1	1	
+Neo-liberalism	How Social Media Took us From Tahrir Square to DJT	1	1	
+Platforms	How Social Media Took us From Tahrir Square to DJT	1	1	
+Neo-liberalism	Inventing the Future Intro-CH1	1	1
+Neo-liberalism	Capitalist Realism CH4-6	1	1
+Neo-liberalism	Mark Fisher: The Slow Cancellation of the Future	1	1
+Neo-liberalism	Capitalist Realism CH1-3	1	1
+Neo-liberalism	Four Futures, Peter Frase, Jacobin	2	1
+Neo-liberalism	CIA: Simple Sabortage Field Manual	2	1
+Neo-liberalism	From Counter-culture to Cyberculture HKW (2013)	2	1
+Neo-liberalism	Doomscroll: Quinn Slobodian - What is Neo-liberalism	2	1
+Neo-liberalism	Capitalist Realism CH7-9	2	1
+Neo-liberalism	Brief History of Neo-liberalism	3	1
+Neo-liberalism	Inventing the Future CH3	3	1	
+Neo-liberalism	All Wellness Products are on Both Goop & Infowars	3	1
+Neo-liberalism	The People's Republic of Walmart CH1-2	2	2
+Neo-liberalism	Hayek's Bastards	2	2
+Neo-liberalism	Texan Ideology	2	2
+Neo-liberalism	Doomscroll 40.5: David Adler	4	2
+Neo-liberalism	The Politics of Bitcoin	4	2
+Neo-liberalism	AI as Social Technology	1	3	
+Platforms	Mark Fisher: The Slow Cancellation of the Future	1	1
+Platforms	About Platform Capitalism	1	1
+Platforms	Elements of Technology Criticism	2	1
+Platforms	David Graeber vs. Peter Thiel	2	1
+Platforms	Towards a Philosophy of Photography	2	1
+Platforms	My Dad the Facebook Addict	2	1
+Platforms	The Day Facebook Ruined the Internet	2	1
+Platforms	From Counter-culture to Cyberculture HKW (2013)	2	1
+Platforms	Balaji Srinivasan Startup School 2013	2	1
+Platforms	The Network State	3	1
+Platforms	The Dark Forest Theory of the Internet	3	1
+Platforms	The Black Stack	3	1
+Platforms	Blood Coltan, Patrick Forestier	3	1
+Platforms	Revenge of the Real	3	1
+Platforms	The Future of Critique: Keynote from New Models	2	2
+Platforms	Does Writing Have a Future	3	2
+Platforms	On Photography, Susan Sontag	4	2
+Platforms	You've Got the Luddites All Wrong	4	2
+Platforms	Authoritarian & Democratic Technics	4	2
+Platforms	Tech Crit Notes: March 2026	4	2
+Platforms	From Counterculture to Cyberculture CH1 & CH7	5	2
+Platforms	New Dark Age: Technology & the End of the Future	5	2
+Platforms	How Romantics & Victorians Organized Information: Commonplace Books	1	3
+Platforms	Reading Strategies for Coping with Information Overload 1550-1700	1	3
+Platforms	Organizing Enlightenment: Information Overload	1	3
+Crypto	Elements of Technology Criticism	2	1
+Crypto	From Counter-culture to Cyberculture HKW (2013)	2	1
+Crypto	The Network State	3	1
+Crypto	The Black Stack	3	1
+Crypto	Hayek's Bastards	2	2
+Crypto	Texan Ideology	2	2
+Crypto	Doomscroll 40.5: David Adler	4	2
+Crypto	You've Got the Luddites All Wrong	4	2
+Crypto	Authoritarian & Democratic Technics	4	2
+Crypto	Tech Crit Notes: March 2026	4	2
+Crypto	The Politics of Bitcoin	4	2
+Crypto	Tech Crit 2, DNR Lecture	5	2
+Crypto	New Dark Age: Technology & the End of the Future	5	2	
+AI	Elements of Technology Criticism	2	1
+AI	From Counter-culture to Cyberculture HKW (2013)	2	1
+AI	The Black Stack	3	1
+AI	Workers Leaving the Googleplex	3	1
+AI	Blood Coltan, Patrick Forestier	3	1
+AI	Hayek's Bastards	2	2
+AI	Texan Ideology	2	2
+AI	Does Writing Have a Future	3	2
+AI	How AI Destroys Institutions	4	2
+AI	You've Got the Luddites All Wrong	4	2
+AI	Authoritarian & Democratic Technics	4	2
+AI	Tech Crit Notes: March 2026	4	2
+AI	The Atlas of AI: Power, Politics, & the Planetary Costs	4	2
+AI	New Dark Age: Technology & the End of the Future	5	2
+AI	AI as Social Technology	1	3
+Labor	Inventing the Future CH1	1	1
+Labor	Inventing the Future CH2	2	1
+Labor	Workers Leaving the Googleplex	3	1
+Labor	Blood Coltan, Patrick Forestier	3	1
+Labor	Selling Social Justice, Jen Pan	3	2
+Labor	No Shortcuts, Jane McAlevey	3	2
+Labor	You've Got the Luddites All Wrong	4	2	
+Socialism	Four Futures, Jacobin	2	1
+Socialism	Inventing the Future CH2	2	1
+Socialism	Anti-Social Socialism Club, Dustin Guastella	3	1
+Socialism	Bernie Deradicalized Me, Jen Pan	3	1
+Socialism	Doomscroll: Vivek Chibber 2 - What is Socialism Today?	1	2
+Socialism	The People's Republic of Walmart	2	2
+Socialism	Doomscroll 40.5: David Adler	4	2	
+Socialism	Confronting Capitalism: How Socialism Could Really Work	1	3
+Socialism	Confronting Capitalism: Why Soviet Style Planning Fails	1	3
+Socialism	Doomscroll: Bhaskar Sunkara - What is Democratic Socialism	1	3
+Death	Four Futures, Jacobin	2	1
+Death	Four Futures Book Exterminism	2	2
+Death	Imperialism as a Special Stage of Capitalism, Vladimir Lenin	2	2
+Death	Necropolitics, Achille Mbembe	5	2
+Death	How To Interpret Necropolitics, Dana Thompson	5	2
+Art	Art Won't Save Us, Anna Khachiyan	1	1
+Art	The Declining Taste of the Global Super Rich, Amber A'Lee Frost	2	1
+Art	Choose Your Future Art Project, Joshua Citerella	2	1
+Art	Towards a Philosophy of Photography	2	1
+Art	The Long Tail, Chris Anderson	2	1
+Art	Politigram & The Post Left, Joshua Citerella	2	1
+Art	The Photographic Universe, Hito Steyerl	2	1
+Art	Can Jokes Bring Down the Government MEMES	2	1
+Art	Can Jokes Bring Down the Government JOKES	3	1
+Art	The Future of Critique: Keynote from New Models	2	2
+Art	Long Tail Presentation, Mark Lecky	2	2
+Art	What Relational Aesthetics can Learn from 4chan, Brad Troemel	3	2
+Art	9.5 Theses on Art & Class, Ben Davis	3	2
+Art	Does Writing Have a Future	3	2
+Art	On Photography, Susan Sontag	4	2
+Art	Work of Art in the Age of Mechanical Reproduction Lecture, Catherine Liu	4	2
+Art	Work of Art in the Age of Mechanical Reproduction Lecture, Walter Benjamin	4	2
+Art	How Romantics & Victorians Organized Information: Commonplace Books	1	3
+Art	Commonplace Books & Reading in Georgian England	1	3
+Art	Organizing Enlightenment: Information Overload	1	3
+Misc	Getting Things Done, David Allen	1	1
+Misc	How To Make Friends and Influence People	1	1
+Misc	CIA: Simple Sabortage Field Manual	2	1
+Misc	K-Hole: Youth Mode	2	1
+Misc	An American Utopia, Frederik Jameson	3	1
+Misc	Blender Notes	1	2
+Misc	Virtue Horders, Catherine Liu	1	2
+Misc	Storyteller & Gambler Lecture, Catherine Liu	1	2
+Misc	Four Futures Book Communism	2	2
+Misc	History of the British Plantations in America, Sir William Keith	2	2
+Misc	MGSV:TPP Directed By: Hideo Kojima, Dana Thompson	2	2
+Misc	Society of the Psyop, Trevor Paglan	5	2
