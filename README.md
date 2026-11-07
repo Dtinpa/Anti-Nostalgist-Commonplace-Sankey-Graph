@@ -12,11 +12,11 @@ Installation:
 
   Windows:
     
-  Install Visual Studio Code: https://code.visualstudio.com/
-  Open python file in Visual Studio Code.
-  Go to extensions, and search for python and plotly.
-  Install both of those extensions and restart Visual Studio Code.
-  In the top right of the editor there is a run button.  Click that to execute the file
+    Install Visual Studio Code: https://code.visualstudio.com/
+    Open python file in Visual Studio Code.
+    Go to extensions, and search for python and plotly.
+    Install both of those extensions and restart Visual Studio Code.
+    In the top right of the editor there is a run button.  Click that to execute the file
 
 
   Do not edit the Dataset.txt file.  You do not need to edit it.
