@@ -24,10 +24,10 @@ with open('DataSet.txt', 'r') as file:
 
     if(len(headers) != 4):
         print("Missing headers.  Undo any edits to Dataset.txt")
-        os._exit(os.EX_OK)
+        os._exit(os.X_OK)
     if(headers[0] != "topoi" or headers[1] != "book" or headers[2] != "chapter" or headers[3] != "volume"):
         print("Invalid headers detected.  Undo any edits to Dataset.txt")
-        os._exit(os.EX_OK)
+        os._exit(os.X_OK)
 
     lineNumberInFile = 2;
     for line in file:
@@ -36,10 +36,10 @@ with open('DataSet.txt', 'r') as file:
         # if any line of the data set text file is malformed, exit the program
         if(len(dataset) != 4):
             print("Missing dataset attributes on line " + str(lineNumberInFile) + ".  4 attributes are expected for each entry according to the header at the top of the file")
-            os._exit(os.EX_OK)
+            os._exit(os.X_OK)
         if(not dataset[2].isdigit() or not dataset[3].isdigit()):
             print("Invalid data point for chapter or volume field.  Ensure entries are whole numbers, and that each entry is seperated by a tab")
-            os._exit(os.EX_OK)
+            os._exit(os.X_OK)
 
         lineNumberInFile += 1
 
