@@ -1,16 +1,16 @@
 Installation:
 
-macOS / Linux:
+  macOS / Linux:
 
   You will need to ensure you have the latest version of python, pip, and the plotly package.
     
-  Run to install python: sudo apt-get install python3
-  Run to install pip: sudo apt-get install python3-pip
-  Run to install plotly graphing package: pip install plotly
+    Run to install python: sudo apt-get install python3
+    Run to install pip: sudo apt-get install python3-pip
+    Run to install plotly graphing package: pip install plotly
 
   From there you should be good to run the python script and interact with the graph in your web browser of choice.
 
-Windows:
+  Windows:
     
   Install Visual Studio Code: https://code.visualstudio.com/
   Open python file in Visual Studio Code.
@@ -21,7 +21,7 @@ Windows:
 
   Do not edit the Dataset.txt file.  You do not need to edit it.
 
-Purpose:
+  Purpose:
 
   To plot out all of the notes and their relationship to high level topics (topoi) and their location within the Anti-Nostalgist Commonplace.
   John Locke created an indexing system for commonplace books, and this graph is an attempt to create a new way of doing the same thing.
